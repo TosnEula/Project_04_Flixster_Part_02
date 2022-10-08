@@ -35,7 +35,7 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging portion of the project is ensuring that a connection is made between the app and the API.
 
 ## License
 
